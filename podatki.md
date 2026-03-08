@@ -3,7 +3,7 @@
 Podatke sem pridobil iz spletnega mesta Keggle. Celotna podatkovna zbirka vsebuje 14 csv datotek, vendar po vsej verjetnosti ne bom uporabil vseh, jih bom pa vseeno opisal.
 
 
-#### circuits
+### circuits
 Vsebuje podatke o progah.
 
 - circuitId: ID proge
@@ -17,7 +17,7 @@ Vsebuje podatke o progah.
 - url: povezava do wikipedia strani proge
 
 
-#### constructor_results
+### constructor_results
 Podatki rezultatov konstruktorjev.
 
 - constructorResultsId: ID
@@ -27,7 +27,7 @@ Podatki rezultatov konstruktorjev.
 - status: status rezultata
 
 
-#### constructor_standings
+### constructor_standings
 Lestvica konstruktorjev po vsaki dirki.
 
 - constructorStandingsId: ID
@@ -38,7 +38,7 @@ Lestvica konstruktorjev po vsaki dirki.
 - positionText: v string formatu
 - wins: št. zmag
 
-#### constructors
+### constructors
 Podatki o konstruktorjih
 
 - constructorId: ID konstruktorja
@@ -47,7 +47,7 @@ Podatki o konstruktorjih
 - nationality: Država ekipe
 - url: povezava do wikipedie
 
-#### driver_standings
+### driver_standings
 Lestvica voznikov po vsaki dirki.
 
 - driverStandingsId: ID
@@ -58,7 +58,7 @@ Lestvica voznikov po vsaki dirki.
 - positionText: v string formatu
 - wins: št. zmag
 
-#### drivers
+### drivers
 Podatki o voznikih
 
 - driverId: ID voznika
@@ -71,7 +71,7 @@ Podatki o voznikih
 - nationality: državljanstvo
 - url: povezava do wikipedie
 
-#### lap_times
+### lap_times
 Časi krogov
 
 - raceId: ID dirke
@@ -81,7 +81,7 @@ Podatki o voznikih
 - time: čas
 - milliseconds: čas v milisekundah
 
-#### pit_stops
+### pit_stops
 Časi postankov
 
 - raceId: ID dirke
@@ -92,7 +92,7 @@ Podatki o voznikih
 - duration: čas postanka
 - milliseconds: v milisekundah
 
-#### qualifying
+### qualifying
 Kvalifikacije
 
 - qualifyId: ID kvalifikacij
@@ -105,7 +105,7 @@ Kvalifikacije
 - q2: čas v q2 (2. del kvalifikacij)
 - q3: čas v q3 (3. del kvalifikacij)
 
-#### races
+### races
 Dirke
 
 - raceId: ID dirke
@@ -129,7 +129,7 @@ Naslednji stolpci so tudi del te datoteke, vendar ker se prvič uporabijo leta 2
 - sprint_date
 - sprint_time
 
-#### results
+### results
 Podatki rezultatov voznikov.
 
 - resultId: ID rezultata
@@ -151,13 +151,13 @@ Podatki rezultatov voznikov.
 - fastestLapSpeed: najvišja dosežena hitrost najhitrejšega kroga (v mph)
 - statusId: ID statusa
 
-#### seasons
+### seasons
 Leta
 
 - year: leto sezone
 - url: link do wikipedie
 
-#### sprint_results
+### sprint_results
 Rezultati šprint dirk
 
 - resultId: ID rezultata
@@ -177,7 +177,7 @@ Rezultati šprint dirk
 - fastestLapTime: čas najhitrejšega kroga
 - statusId: ID statusa
 
-#### status
+### status
 Možni statusi dirkačev
 
 - statusID: ID statusa
