@@ -10,11 +10,12 @@ Za projektno nalogo sem se odločil narediti analizo Formule 1 (F1), kjer bi se 
 
 ## Podatki
 
-Podatke sem pridobil iz spletnega mesta Kaggle. Vsebujejo podatke o prograh, konstruktorjih, voznikih, sezonah, rezultatih, kvalifikacijah in več. Opis podatkov je v datoteki [Data Description](podatki.md)
+Podatke sem pridobil iz spletnega mesta Kaggle. Vsebujejo podatke o prograh, konstruktorjih, voznikih, sezonah, rezultatih, kvalifikacijah in več. Opis podatkov je v datoteki [podatki.md](podatki.md)
 
 ## Vprašanja/Cilji
 
 1. Verjetnost stopničk glede na začetni položaj.
 2. Primerjava povprečnih časov kroga najboljšega konstruktorja (prvakov) skozi leta.
 3. Kateri konstruktorji so najboljši v postankih (podatki na voljo šele od 2011 naprej)
+
 
