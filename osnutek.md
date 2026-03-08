@@ -10,7 +10,7 @@ Za projektno nalogo sem se odločil narediti analizo Formule 1 (F1), kjer bi se 
 
 ## Podatki
 
-Podatke sem pridobil iz spletnega mesta Kaggle. Vsebujejo podatke o prograh, konstruktorjih, voznikih, sezonah, rezultatih, kvalifikacijah in več. Opis podatkov je v datoteki podatki.md
+Podatke sem pridobil iz spletnega mesta Kaggle. Vsebujejo podatke o prograh, konstruktorjih, voznikih, sezonah, rezultatih, kvalifikacijah in več. Opis podatkov je v datoteki (podatki.md)
 
 ## Vprašanja/Cilji
 
